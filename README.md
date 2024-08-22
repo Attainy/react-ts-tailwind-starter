@@ -1,3 +1,10 @@
+# 복제
+// 현재 폴더
+git clone https://github.com/Attainy/react-ts-tailwind-starter.git .
+// 새로운 폴더
+git clone https://github.com/Attainy/react-ts-tailwind-starter.git 프로젝트이름
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
